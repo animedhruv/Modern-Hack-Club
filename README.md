@@ -1,5 +1,5 @@
-# Westbrough High School Hack Club
+# Modern Public School Hack Club
 
-The site for Westborough High School's Hack Club.
+The site for Modern Public School's Hack Club
 
-https://whs.hackclub.com
+
